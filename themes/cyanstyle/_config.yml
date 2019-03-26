@@ -1,0 +1,42 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  "Fork Me On Github": https://github.com/tianwyam/blog
+
+# Content
+excerpt_link: 更多
+prev: 上一页
+next: 下一页
+reply: 评论
+share: 分享
+fancybox: true
+
+# Sidebar
+widgets:
+- about
+- music
+- archive
+- recent_posts
+- category
+- tag
+- tagcloud
+- linkOther
+
+# Miscellaneous
+google_analytics:
+duoshuo_shortname: 
+rss: 
+google_site_verification: 
+baidu_site_verification: 
+favicon: 
+
+# music
+music:
+  url:  http://www.ytmp3.cn/down/57682.mp3
+  name: 张靓颖【我的梦】
+  
+
+#avatar
+avatar:
+  url: https://avatar.gitee.com/uploads/51/1088151_tianyagongmingyue.png!avatar100?1477980572
